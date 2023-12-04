@@ -1,0 +1,49 @@
+html, body{
+    height:100%;
+    margin:0;
+}
+footer{
+    background-color: green;
+    height:300px;
+    width:100vw;
+    display: flex;
+    justify-content: space-evenly;
+    position: absolute;
+    bottom:0;
+    
+}
+.footer-image-box{
+    width:20%;
+    background-color: rebeccapurple;
+    height:100%;
+}
+.text-section{
+    width:80%;
+    background-color: beige;
+    height:100%;
+}
+#footer-image{
+    height:400px;
+    width:300px;
+}
+.newsletter-section{
+    height:70px;
+    background-color: red;
+}
+form{
+    width:80%;
+    margin: auto;
+    min-width: 400px;
+}
+#email{
+    width:100%;
+    
+}
+.footer-important-text{
+    height:130px;
+    background-color: aquamarine;
+}
+.social-media-section{
+    background-color: brown;
+    height:100px;
+}
